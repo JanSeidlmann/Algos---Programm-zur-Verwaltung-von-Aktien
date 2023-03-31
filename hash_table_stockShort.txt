@@ -1,0 +1,2 @@
+Apple,Appl,j2ef3, 
+Microsoft,MSFT,fja3, 
